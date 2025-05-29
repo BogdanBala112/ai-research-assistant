@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+langchain
+chromadb
+datasets
+tqdm
+deepeval
+rouge-score
+evaluate
